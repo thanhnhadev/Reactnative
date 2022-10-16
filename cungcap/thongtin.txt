@@ -1,0 +1,15 @@
+react native Cơ bản: (8/10/2022).
+
+reactnative.dev
+
+Giáo viên: Nguyễn Anh Tuấn
+Email: natuan@t3h.hcmus.edu.vn
+Tel: 0973 263 283
+
+
+- java: jdk-11
+- node js nodejs.org
+- Android Studio
+	
+
+editor: VS Code -> https://code.visualstudio.com/
